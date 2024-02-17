@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca95fc5-bee8-4a77-a150-ea5b5a9a53af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BalancedBrackets_Q4.java" afterDir="false" />
+    <list default="true" id="bca95fc5-bee8-4a77-a150-ea5b5a9a53af" name="Changes" comment="balanced brackets code">
+      <change afterPath="$PROJECT_DIR$/src/DNA_Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -23,6 +25,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="04e71bd2-7f33-4a02-b891-4a9737ff55cd" />
+        <option name="url" value="https://github.com/ElisabethHassan/assignmentFour.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,6 +63,18 @@
       <option name="presentableId" value="Default" />
       <updated>1708190446239</updated>
     </task>
+    <task id="LOCAL-00001" summary="balanced brackets code">
+      <created>1708193887939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708193887939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="balanced brackets code" />
+    <option name="LAST_COMMIT_MESSAGE" value="balanced brackets code" />
   </component>
 </project>
