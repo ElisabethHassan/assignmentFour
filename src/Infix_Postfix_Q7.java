@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Q7 {
+public class Infix_Postfix_Q7 {
 
     public String infixToPostfix(String s){
         String postfix = "";

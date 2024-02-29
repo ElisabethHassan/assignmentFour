@@ -3,13 +3,6 @@ import java.util.Queue;
 
 public class DNA_Q5 {
 
-    /*
-    thought process
-    iterate through the strings
-
-     */
-
-
     Queue<Character> q = new LinkedList<>();
 
     public String transcription(String dna){

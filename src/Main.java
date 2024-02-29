@@ -21,9 +21,14 @@ public class Main {
 //        System.out.println("OG String: " + s);
 //        System.out.println("New String: " + d.transcription(s));
 
-        Q7 q = new Q7();
-        String s = "2*3+4*5";
-        System.out.println(q.infixToPostfix(s));
+//        Infix_Postfix_Q7 q = new Q7();
+//        String s = "2*3+4*5";
+//        System.out.println(q.infixToPostfix(s));
+
+        RNA_Protein_Q6 q = new RNA_Protein_Q6();
+        String rna = "AGCUGGGAAACGUAGGCCUA";
+        q.rnaToProtein(rna);
+
 
 
 
