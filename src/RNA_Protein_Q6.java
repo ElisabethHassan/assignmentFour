@@ -19,7 +19,6 @@ public class RNA_Protein_Q6 {
                 System.out.print(protein);
             }
         }
-        System.out.println();
     }
 
     private static String getProtein(String rna) {
