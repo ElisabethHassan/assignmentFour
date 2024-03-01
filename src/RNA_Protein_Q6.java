@@ -5,7 +5,7 @@ public class RNA_Protein_Q6 {
 
     public void rnaToProtein(String rna) {
         String result;
-        String protein ="";
+        String protein;
         int i;
         Queue<Character> rnaQueue = new LinkedList<>();
         for (char n : rna.toCharArray()) {

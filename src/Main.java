@@ -27,7 +27,8 @@ public class Main {
 
         RNA_Protein_Q6 q = new RNA_Protein_Q6();
         String rna = "AGCUGGGAAACGUAGGCCUA";
-        q.rnaToProtein(rna);
+        String r = "UAAAGAGAAGCCAGC";
+        q.rnaToProtein(r);
 
 
 
