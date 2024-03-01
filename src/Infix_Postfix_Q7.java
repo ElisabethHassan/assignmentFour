@@ -7,7 +7,7 @@ public class Infix_Postfix_Q7 {
         Stack<Character> stack = new Stack<>();
 
         for(char c : s.toCharArray()){
-            if(Character.isDigit(c)) postfix += c;
+            if(Character.isDigit(c) || Character.isAlphabetic(c)) postfix += c;
             else if (c == '('){
                 stack.push(c);
             } else if (c == ')'){
